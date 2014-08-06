@@ -1,0 +1,3 @@
+include *.ini *.rst .gitignore
+recursive-include pipette/static *.css *.js
+recursive-include pipette/templates *.pt
